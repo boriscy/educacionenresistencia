@@ -16,7 +16,7 @@
 				<span class="symbol">Bs.</span>
 			</div>
 
-			<img src="libro-pensamientos.jpg" class="img" title="Pensamientos" />
+			<img src="images/libro-pensamientos.jpg" class="img" title="Pensamientos" />
 			<div class="detail absolute bottom-0">
 				Libro de 234 páginas falso cosido artesanal, tapa de cartulina, con fotografías de cuadros
 				tejidos en el interior

@@ -1,7 +1,7 @@
 <h1 class="text-3xl">Educación en Resistencia</h1>
 
 <div class="">
-	<img src="/ale-firmando.jpg" class="mr-2 w-3/5 float-left" />
+	<img src="images/ale-firmando.jpg" class="mr-2 w-3/5 float-left" />
 
 	<p>
 		El proyecto de la Editorial Educación en Resistencia tiene su germen en el trabajo de correctora
