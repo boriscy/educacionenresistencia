@@ -1,6 +1,5 @@
 <script lang="ts">
 	import "../app.css"
-	//import { theme } from "$lib/stores"
 </script>
 
 <div class="bg-base-200 p-0 mx-auto main">
