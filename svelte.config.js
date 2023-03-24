@@ -20,7 +20,8 @@ const config = {
       default: true,
       trailingSlash: "always",
       fallback: "200.html"
-    })
+    }),
+    base: process.env.NODE_ENV === "production" ? "/educacionenresistencia" : ""
   },
   preprocess: vitePreprocess(),
   files: {
