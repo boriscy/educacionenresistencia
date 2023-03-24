@@ -9,7 +9,7 @@
         <img src="images/logo.png" width="100" alt="Logo" />
       </a>
       <div class="flex items-center">
-        <a class="text-white font-bold mx-3 hover:text-gray-100" href=""> Inicio </a>
+        <a class="text-white font-bold mx-3 hover:text-gray-100" href="/"> Inicio </a>
         <a class="text-white font-bold mx-3 hover:text-gray-100" href="products"> Productos </a>
         <a class="text-white font-bold mx-3 hover:text-gray-100" href="about"> Nosotras </a>
       </div>
